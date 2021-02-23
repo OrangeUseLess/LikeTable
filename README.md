@@ -5,7 +5,9 @@
 
 # 相关参考链接
 luckysheet：
+（git）
 https://github.com/mengshukeji/Luckysheet
+（使用文档）
 https://mengshukeji.gitee.io/LuckysheetDocs/zh/
 
 
