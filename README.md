@@ -4,7 +4,9 @@
 之后可能会涉及到react的状态管理，初步考虑，使用的插件是mobx插件。
 
 # 相关参考链接
-luckysheet：https://github.com/mengshukeji/Luckysheet
+luckysheet：
+https://github.com/mengshukeji/Luckysheet
+https://mengshukeji.gitee.io/LuckysheetDocs/zh/
 
 
 # 项目启动
