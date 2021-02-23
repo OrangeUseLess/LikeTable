@@ -1,5 +1,7 @@
 # 项目详情
-使用react + ts + sass + antd + luckysheet，制作一款类似于excel的表格。期望具有表格的相关样式以及功能。
+使用react（hook） + ts + sass + antd + luckysheet，制作一款类似于excel的表格。期望具有表格的相关样式以及功能。
+
+之后可能会涉及到react的状态管理，初步考虑，使用的插件是mobx插件。
 
 
 # 项目启动
