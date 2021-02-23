@@ -1,2 +1,3 @@
 # LikeTable
-React+TypeScript+antd+Jexcel，仿照Excel的页面，实现一个类似于Excel的项目。
+React+TypeScript+antd+luckysheet，实现一个类似于Excel的项目。
+功能正在慢慢补充。
