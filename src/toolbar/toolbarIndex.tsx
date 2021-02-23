@@ -11,6 +11,7 @@ import {
     SolutionOutlined
 } from '@ant-design/icons';
 import SearchBox from '../public_component/excelSearchBox/searchBox';
+import SearchBoxStore from '../public_component/excelSearchBox/searchBox.store';
 
 declare const luckysheet: any;
 export const ToolbarIndex = () => {
@@ -29,8 +30,7 @@ export const ToolbarIndex = () => {
 
     // 查找功能
     const excelFind = () => {
-        let findCell = luckysheet.find('1');
-        console.log(findCell);
+        new SearchBoxStore().hide('show');
     }
 
     // 筛选
